@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-23T09:04:28 PDT" name="Default suite" finished-at="2024-07-23T09:04:28 PDT" duration-ms="83">
+    <groups>
+    </groups>
+    <test started-at="2024-07-23T09:04:28 PDT" name="Default test" finished-at="2024-07-23T09:04:28 PDT" duration-ms="83">
+      <class name="test.TestCase2$TestCase3$TestCase4">
+        <test-method signature="verifySecondTest()[pri:0, instance:test.TestCase2$TestCase3$TestCase4@5d534f5d]" started-at="2024-07-23T09:04:28 PDT" name="verifySecondTest" finished-at="2024-07-23T09:04:28 PDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySecondTest -->
+      </class> <!-- test.TestCase2$TestCase3$TestCase4 -->
+      <class name="test.TestCase2$TestCase3">
+        <test-method signature="verifyThirdTest()[pri:0, instance:test.TestCase2$TestCase3@5e600dd5]" started-at="2024-07-23T09:04:28 PDT" name="verifyThirdTest" finished-at="2024-07-23T09:04:28 PDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyThirdTest -->
+      </class> <!-- test.TestCase2$TestCase3 -->
+      <class name="test.TestCase2">
+        <test-method signature="verifyFirstTest()[pri:0, instance:test.TestCase2@506ae4d4]" started-at="2024-07-23T09:04:28 PDT" name="verifyFirstTest" finished-at="2024-07-23T09:04:28 PDT" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFirstTest -->
+      </class> <!-- test.TestCase2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
